@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Watch grampa rick bring down an empire by changing a 1 to 0\" && exit 0"
   },
   "keywords": [],
   "author": "",
